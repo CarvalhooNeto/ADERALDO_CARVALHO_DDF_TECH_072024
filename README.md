@@ -4,6 +4,9 @@
 
 **Item 1** - The database chosen was the data relating to Rossmann store sales available at this link².
 
+**Item 2** - The file was loaded using the platform's import module. Some descriptive metrics were automatically added after load.
+
+**Item 3** - After sending the static file, the platform automatically catalogs the data assets.
 
 # References
 
